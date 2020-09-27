@@ -130,7 +130,7 @@ footer {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;;
     font-weight: bold;
 }
-#cont a {
+#cont a, #abt a{
     text-decoration: none;
 }
 #dev a {
