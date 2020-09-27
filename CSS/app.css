@@ -130,8 +130,13 @@ footer {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;;
     font-weight: bold;
 }
-a {
+#cont a {
     text-decoration: none;
+}
+#dev a {
+    text-decoration: none;
+    color: black;
+    font-size: larger;
 }
 @media screen and (min-width: 500px) {
     header {
