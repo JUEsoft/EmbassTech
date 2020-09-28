@@ -25,11 +25,3 @@ window.onload = function() {
         }
     });
 }
-function hidenav() {
-    document.querySelector("#sidebar").style.left = "-210px";
-    document.querySelector("#toggle").style.left = "215px";
-    setTimeout(function() {
-        document.querySelector("#toggle").style.display = "block";
-    },
-        500);
-}
